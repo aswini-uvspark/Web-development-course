@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Aswini Venkat</h1>
+
+        <img src="profile.jpg" alt="Profile photo of Aswini Venkat" width="150">
+
+        <p>
+            Electrical and Computer Engineering graduate with hands-on experience
+            in Python, Machine Learning, SQL, IoT, and Linux. Interested in
+            building practical software and data-driven solutions while
+            continuously developing technical skills.
+        </p>
+    </header>
+
+    <hr>
+
+    <section>
+        <h2>Education</h2>
+
+        <ul>
+            <li>
+                <strong>B.Tech in Electrical and Computer Engineering</strong><br>
+                Amrita Vishwa Vidyapeetham, Coimbatore<br>
+                2022 - 2026
+            </li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Work Experience</h2>
+
+        <ul>
+            <li>
+                <strong>Energy Analyst Intern</strong><br>
+                Nectar Technologies<br>
+                March 2026 - June 2026
+                <ul>
+                    <li>Worked with asset onboarding and point mapping.</li>
+                    <li>Configured event and alarm-related points.</li>
+                    <li>Worked with point expressions and PostgreSQL.</li>
+                    <li>Performed SQL-based data operations and cache loading.</li>
+                </ul>
+            </li>
+
+            <br>
+
+            <li>
+                <strong>Reliability and Testing Intern</strong><br>
+                Chennai Petroleum Corporation Limited (CPCL)<br>
+                January 2025
+                <ul>
+                    <li>Worked with reliability and testing activities in the Electrical Department.</li>
+                    <li>Assisted with preventive maintenance activities.</li>
+                    <li>Performed thermography inspections of motors and high-voltage switchgear.</li>
+                </ul>
+            </li>
+
+            <br>
+
+            <li>
+                <strong>Immersion Program</strong><br>
+                L&T Technology Services<br>
+                2025
+                <ul>
+                    <li>Participated in an industry immersion program.</li>
+                    <li>Explored railway engineering and smart city projects.</li>
+                    <li>Participated in design thinking and technical activities.</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Skills</h2>
+
+        <ul>
+            <li>Python</li>
+            <li>SQL</li>
+            <li>PostgreSQL</li>
+            <li>Machine Learning</li>
+            <li>Data Analysis</li>
+            <li>Linux</li>
+            <li>Git and GitHub</li>
+            <li>AWS EC2</li>
+            <li>IoT</li>
+            <li>Computer Networks</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Projects</h2>
+
+        <ul>
+            <li>
+                <strong>IoT Based Data Analysis for Feature Selection Using Hybrid Swarm Intelligence Algorithm</strong>
+                <p>
+                    Developed a dataset-based approach for feature selection
+                    using a hybrid Particle Swarm Optimization and Ant Colony
+                    Optimization approach.
+                </p>
+            </li>
+
+            <li>
+                <strong>Oil Spill Detection System</strong>
+                <p>
+                    Developed a Python-based image classification application
+                    using CNN and OpenCV with a Tkinter interface.
+                </p>
+            </li>
+
+            <li>
+                <strong>Personal Portfolio Website</strong>
+                <p>
+                    Built and deployed a personal portfolio website using
+                    AWS EC2, Ubuntu, Nginx, Git, and GitHub.
+                </p>
+            </li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Certifications and Achievements</h2>
+
+        <ul>
+            <li>Next-Gen IoT with ESP32</li>
+            <li>SQL Concepts Workshop</li>
+            <li>AI and Edge Computing Workshop - L&T EduTech</li>
+            <li>Published researcher in machine learning-based fault detection</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <nav>
+        <h2>More About Me</h2>
+
+        <ul>
+            <li><a href="hobbies.html">My Hobbies</a></li>
+            <li><a href="contact.html">Contact Me</a></li>
+        </ul>
+    </nav>
+
+    <hr>
+
+    <footer>
+        <p>© 2026 Aswini Venkat. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
